@@ -1,0 +1,20 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  position: relative;
+  margin-top: 100px;
+}
+
+nav {
+  position: fixed;
+  z-index: 10;
+  left: 0;
+  right: 0;
+  top: 0;
+  font-family: "Roborto", sans-serif;
+  height: 50px;
+}
+
